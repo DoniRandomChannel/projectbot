@@ -39,25 +39,27 @@ After scan barcode whatsapp, you can start message with following command : !men
 ┗━━━━━━━•━━━━━━┛
 ┏━━━[ Sticker Creator ]━━━
 ┃
-┣☛ #sticker
-┣☛ #sticker link
-┣☛ #gifsticker giphylink
+┣☛ >sticker
+┣☛ >sticker link
+┣☛ >gifsticker giphylink
 ┃
 ┗━━━━━━━━━━━━━••
 ┏━━━━[ Downloader ]━━━
 ┃
-┣☛ #fb post link
-┣☛ #twt post link
-┣☛ #tiktok vidio link
+┣☛ >fb post link
+┣☛ >twt post link
+┣☛ >tiktok vidio link
+┣☛ >ig vidio link
+┣☛ >yt vidio link
 ┃
 ┗━━━━━━━━━━━━━••
 ┏━━━━━[ Other ]━━━━━
 ┃
-┣☛ #meme
-┣☛ #teknis
-┣☛ #donasi
-┣☛ #menuadmin
-┣☛ #resi kurir nomeresi
+┣☛ >meme
+┣☛ >teknis
+┣☛ >donasi
+┣☛ >menuadmin
+┣☛ >resi kurir nomeresi
 ┃
 ┣━━━━━━━━━━━━━━
 ┗━━━━[X-SPC BOT]━━━━┛
