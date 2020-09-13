@@ -1,5 +1,8 @@
-# Object file
-*.o
+# Logs
+logs
 
-# Ada Library Information
-*.ali
+# Dependency directories
+node_modules/
+
+# Optional npm cache directories
+.npm
