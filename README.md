@@ -7,8 +7,8 @@
 ### Install
 
 ```bash
-> git clone https://github.com/ibnusyawall/aex-bot.git 
-> cd aex-bot
+> git clone https://github.com/DoniRandomChannel/projectbot.git 
+> cd projectbot
 > npm i
 > npm start
 ```
